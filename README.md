@@ -35,7 +35,8 @@ Here are some ideas to get you started:
   - Generative AI
   - Test automation
   - CI/CD
-- 👀 I'm interested in native apps development, especially Flutter.
+  - Rust
+- 👀 I'm interested in native apps development, especially Flutter and Tauri.
 <br>
 
 
